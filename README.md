@@ -5,3 +5,4 @@ git can merge branch and very simple.
 test git fast forward!
 test again!
 test conflict in master-dev!
+test push to origin!
